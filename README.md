@@ -20,5 +20,7 @@ Currently, SymMap provides massive descriptive information on herbs, TCM symptom
 
 
 ## Commercial resources 
-[Pathway Studio](https://plant.pathwaystudio.com/login/form)
-[Ingenutiy Pathyway Analysis](https://analysis.ingenuity.com/)
+[Pathway Studio](https://plant.pathwaystudio.com/login/form)  
+
+[Ingenutiy Pathyway Analysis](https://analysis.ingenuity.com/)  
+
